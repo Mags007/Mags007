@@ -18,6 +18,11 @@
 <a href='https://code.visualstudio.com/'><img width='30' height='30' src='./vscode.png'/></a>
 <a href='https://copilot.github.com/'><img width='30' height='30' src='./copilot.png'/></a>
 
+🤯 Learning
+<br>
+<br>
+<a href='https://go.dev/'><img width="30" src="./go.png"/></a>
+
 ### 🧠 Knowledge
 
 <a href='https://nodejs.org/'><img width='30' height='30' src='./nodejs.png'/></a>
