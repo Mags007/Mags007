@@ -1,6 +1,6 @@
 ### 📫 How to Reach me?
 
--  Discord: <a href='https://discordapp.com/users/666974190561394698'>Mags007#0084</a>
+-  Discord: <a href='https://discordapp.com/users/666974190561394698'>mxgnus#0084</a>
 -  Email: <a href='mailto:kontakt@mxgnus.de'>kontakt@mxgnus.de</a>
 
 <br />
@@ -33,12 +33,12 @@
 
 ### 🚀 Github stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=Mags007&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010'>
+<img src='https://github-readme-stats.vercel.app/api?username=mxgnus-de&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010'>
 
 <br />
 
 ### ⚡ Languages
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mags007&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mxgnus&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMags007%2FMags007&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMags007%2FMags007)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmxgnus%2FmxgnuscountColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmxgnus%2Fmxgnus)
