@@ -9,7 +9,6 @@
 
 <a href='https://de.wikipedia.org/wiki/JavaScript'><img width='30' height='30' src='./javascript.png'/></a>
 <a href='https://www.typescriptlang.org/'><img width='30' height='30' src='./typescript.png'/></a>
-<a href='https://reactjs.org/'><img width='30' height='30' src='./react-tsx.png'/></a>
 
 <br />
 
@@ -28,6 +27,7 @@
 <a href='https://nodejs.org/'><img width='30' height='30' src='./nodejs.png'/></a>
 <a href='https://www.mysql.com'><img width='30' height='30' src='./mysql.png'/></a>
 <a href='https://nextjs.org//'><img width='50' height='30' src='./nextjs.png'/></a>
+<a href='https://reactjs.org/'><img width='30' height='30' src='./react-tsx.png'/></a>
 
 <br />
 
