@@ -42,4 +42,4 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mxgnus/17681045-bc98-4084-91b6-3a05fd394e8f.png" /></a>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmxgnus%2FmxgnuscountColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmxgnus%2Fmxgnus)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmxgnus-de%2Fmxgnus-de&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmxgnus-de%2Fmxgnus-de)
