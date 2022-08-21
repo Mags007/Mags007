@@ -7,39 +7,38 @@
 
 ### 🌐 Languages
 
-<a href='https://de.wikipedia.org/wiki/JavaScript'><img width='30' height='30' src='./javascript.png'/></a>
-<a href='https://www.typescriptlang.org/'><img width='30' height='30' src='./typescript.png'/></a>
-<a href='https://reactjs.org/'><img width='30' height='30' src='./react-tsx.png'/></a>
-
-<br />
+<p>
+<img src='./languages.png' />
+</p>
 
 ### 💻 Tools
 
-<a href='https://code.visualstudio.com/'><img width='30' height='30' src='./vscode.png'/></a>
-<a href='https://copilot.github.com/'><img width='30' height='30' src='./copilot.png'/></a>
+<p>
+<img src='./tools.png' />
+</p>
 
 🤯 Learning
-<br>
-<br>
-<a href='https://go.dev/'><img width="30" src="./go.png"/></a>
+
+<p>
+<img src='./learning.png' />
+</p>
 
 ### 🧠 Knowledge
 
-<a href='https://nodejs.org/'><img width='30' height='30' src='./nodejs.png'/></a>
-<a href='https://www.mysql.com'><img width='30' height='30' src='./mysql.png'/></a>
-<a href='https://nextjs.org//'><img width='50' height='30' src='./nextjs.png'/></a>
-
-<br />
+<p>
+<img src='./knowledge.png' />
+</p>
 
 ### 🚀 Github stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=mxgnus-de&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010'>
-<br />
+<p>
+<img src='https://github-readme-stats.vercel.app/api?username=mxgnus-de&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
+</p>
 
 ### ⚡ Languages
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mxgnus-de&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@mxgnus/17681045-bc98-4084-91b6-3a05fd394e8f.png" /></a>
+<img src="https://wakatime.com/share/@mxgnus/17681045-bc98-4084-91b6-3a05fd394e8f.png" />
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmxgnus%2FmxgnuscountColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmxgnus%2Fmxgnus)
