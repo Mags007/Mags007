@@ -1,17 +1,19 @@
-### 📫 How to Reach me?
+# mxgnus-de
 
+## 📫 How to Reach me?
+
+<p>
 -  Discord: <a href='https://discordapp.com/users/666974190561394698'>mxgnus#0084</a>
 -  Email: <a href='mailto:kontakt@mxgnus.de'>kontakt@mxgnus.de</a>
+</p>
 
-<br />
-
-### 🌐 Languages
+## 🌐 Languages
 
 <p>
 <img src='./languages.png' />
 </p>
 
-### 💻 Tools
+## 💻 Tools
 
 <p>
 <img src='./tools.png' />
@@ -23,19 +25,19 @@
 <img src='./learning.png' />
 </p>
 
-### 🧠 Knowledge
+## 🧠 Knowledge
 
 <p>
 <img src='./knowledge.png' />
 </p>
 
-### 🚀 Github stats
+## 🚀 Github stats
 
 <p>
 <img src='https://github-readme-stats.vercel.app/api?username=mxgnus-de&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
 </p>
 
-### ⚡ Languages
+## ⚡ Languages
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mxgnus-de&show_icons=true&title_color=ffffff&icon_color=006ab0&text_color=daf7dc&bg_color=101010' />
 
