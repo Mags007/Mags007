@@ -2,10 +2,8 @@
 
 ## 📫 How to Reach me?
 
-<p>
 -  Discord: <a href='https://discordapp.com/users/666974190561394698'>mxgnus#0084</a>
 -  Email: <a href='mailto:kontakt@mxgnus.de'>kontakt@mxgnus.de</a>
-</p>
 
 ## 🌐 Languages
 
