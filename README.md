@@ -17,12 +17,11 @@
 <img src='./tools.png' />
 </p>
 
-<!-- 🤯 Learning
+🤯 Learning
 
 <p>
 <img src='./learning.png' />
 </p>
- -->
 
 ## 🧠 Knowledge
 
